@@ -14,3 +14,7 @@
 ## Mycart Page
 
 ![WhatsApp Image 2024-06-13 at 11 49 10 AM](https://github.com/YuvarajPatil1304/ecom_app/assets/87464910/7d9f7a0c-c7a2-413e-9a2b-526b95d5327f)
+
+## Gif Image
+
+![Uploading ezgif-4-cffe184ace.gif…]()
